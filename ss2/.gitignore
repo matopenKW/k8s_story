@@ -1,0 +1,5 @@
+python/testsite/*
+python/db.sqlite3
+python/manage.py
+python/docker/*
+mysql/docker/*
