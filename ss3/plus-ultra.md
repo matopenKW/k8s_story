@@ -66,3 +66,4 @@ https://kubernetes.io/ja/docs/tutorials/kubernetes-basics/explore/explore-intro/
 + [Kubernetesスライド](https://www.slideshare.net/ToruMakabe/kubernetes-120907020)
 + [順を追って学ぶKubernetesのキホン〜ローカル環境でKubernetesクラスターを作成してKubernetesの概念を理解する〜](https://qiita.com/baby-degu/items/ce26507bd954621d6dc5)
 + [Kubernetesクラスターの構築に柔軟性と自由度を持たせるSpectro Cloud](https://jp.techcrunch.com/2020/03/18/2020-03-17-spectro-cloud-launches-with-7-5m-investment-to-help-developers-build-kubernetes-clusters-their-way/)
++ [ローカル環境のKubernetesでとにかく動くものを作ってみる](https://qiita.com/omukaik/items/c81fc56edc984aa23202)
